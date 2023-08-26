@@ -4,7 +4,7 @@
 
 # *Quem somos?*
 
-  A G4 Devels é uma pequena empresa criada em Agosto de 2023, com intuito de alavancar grandes projetos e se torna uma das melhores empresas do mercado e estamos dispostos para enfrentar qual for o desafio.
+ A Astros é uma empresa recém-fundada especializada em transformar ideias em realidade por meio de projetos inovadores. Nossa paixão reside em abraçar desafios complexos e transformá-los em soluções tangíveis. Com uma equipe diversificada de especialistas criativos e especializados em gerenciamento de projetos, estamos prontos para atender uma variedade de setores e necessidades.
 <br>
 <sup> informações sobre a empresa </sup>
 ## Nossa missão, Nossos valores e Nossa visão
