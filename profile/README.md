@@ -28,8 +28,7 @@
 
 
 ### 👀 | Visão
-<p align="center">Ser líderes em nosso setor,promovendo um <br>
-  espaço que inspire empreendedorismo, colaboração e eficiência</p>
+<p align="center">Ser líderes em nosso setor,promovendo empreendedorismo, colaboração e eficiência</p>
 
 ---
 
