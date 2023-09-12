@@ -14,7 +14,7 @@
 
 ### 🎯 | Missão
 
-<img src="/profile/missao-visao-valores.png" width="470px" align="right">
+<img src="/profile/missao-visao-valores.png" width="500px" align="right">
 
 <p align="center">A ASTROS busca criar um ambiente onde a inovação e a criatividade floresçam, capacitando indivíduos a dar o seu máximo e tornar possível o existir um mundo melhor a cada dia.</p>
 
@@ -28,7 +28,8 @@
 
 
 ### 👀 | Visão
-<p align="center">Ser líderes em nosso setor, promovendo um espaço que inspire empreendedorismo, colaboração e eficiência</p>
+<p align="center">Ser líderes em nosso setor,promovendo um <br>
+  espaço que inspire empreendedorismo, colaboração e eficiência</p>
 
 ---
 
