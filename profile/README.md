@@ -1,28 +1,27 @@
 <h1 align="center">ASTR0S C0MPANY</h1> 
 
-![Company Logo](/profile/astros-logo.png)
+<img align="center" src="/profile/ASTROS.jpg">
 
 # *Quem somos?*
 
- A Astros é uma empresa recém-fundada especializada em transformar ideias em realidade por meio de projetos inovadores. Nossa paixão reside em abraçar desafios complexos e transformá-los em soluções tangíveis. Com uma equipe diversificada de especialistas criativos e especializados em gerenciamento de projetos, estamos prontos para atender uma variedade de setores e necessidades.
-<br>
-<sup> informações sobre a empresa </sup>
-## Nossa missão, Nossos valores e Nossa visão
-
+<p align="justify">
+  A Astros é uma empresa recém-fundada especializada em transformar ideias em realidade por meio de projetos inovadores. Nossa paixão reside em abraçar desafios complexos e transformá-los em soluções tangíveis. Com uma equipe diversificada de especialistas criativos e especializados em gerenciamento de projetos, estamos prontos para atender uma variedade de setores e necessidades.
+</p>
 
 ---
-
 ### 🎯 | Missão
-- A ASTROS busca fornecer produtos de qualidade para o bem-estar do seu melhor amigo.
----
 
+<p align="center">A ASTROS busca criar um ambiente onde a inovação e a criatividade floresçam, capacitando indivíduos a dar o seu máximo e tornar possível o existir um mundo melhor a cada dia.</p>
+
+---
 ### 💡 | Valores
--   Trazer conforto e alegria para o seu pet a cada dia.
+
+<p align="center">Inovação, responsabilidade, colaboração e integridade com o cliente.</p>
 
 ---
 
 ### 👀 | Visão
-- Excelência, sustentabilidade, qualidade, inovação
+<p align="center">Ser líderes em nosso setor, promovendo um espaço que inspire empreendedorismo, colaboração e eficiência</p>
 
 ---
 
@@ -38,16 +37,7 @@
   
 </div>
 
-<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
-</div>
-
-<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Trophy">
-</div>
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ASTROSCOMPANY&bg_color=000000&color=038478&line=038478&point=000ed1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 <div align="center">
   
