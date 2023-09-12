@@ -14,7 +14,7 @@
 
 ### 🎯 | Missão
 
-<img src="/profile/missao-visao-valores.png" width="500px" align="right">
+<img src="/profile/missao-visao-valores.png" width="550px" align="right">
 
 <p align="center">A ASTROS busca criar um ambiente onde a inovação e a criatividade floresçam, capacitando indivíduos a dar o seu máximo e tornar possível o existir um mundo melhor a cada dia.</p>
 
@@ -60,7 +60,7 @@
 
 ---
 ### 💻 | Tech Stack:
-<img src="/profile/programming2.png" width="400px" align="right"><br>
+<img src="/profile/programming2.png" width="360px" align="right"><br>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
