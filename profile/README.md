@@ -1,6 +1,6 @@
 <h1 align="center">ASTR0S C0MPANY</h1> 
 
-<img align="center" src="/profile/ASTROS.jpg">
+<img align="center" src="/profile/ASTROS.jpg"><br>
 
 # *Quem somos?*
 
@@ -9,39 +9,94 @@
 </p>
 
 ---
+
+
+
 ### 🎯 | Missão
+
+<img src="/profile/missao-visao-valores.png" width="500px" align="right">
 
 <p align="center">A ASTROS busca criar um ambiente onde a inovação e a criatividade floresçam, capacitando indivíduos a dar o seu máximo e tornar possível o existir um mundo melhor a cada dia.</p>
 
----
+
 ### 💡 | Valores
+
+
 
 <p align="center">Inovação, responsabilidade, colaboração e integridade com o cliente.</p>
 
----
+
 
 ### 👀 | Visão
 <p align="center">Ser líderes em nosso setor, promovendo um espaço que inspire empreendedorismo, colaboração e eficiência</p>
 
 ---
 
-<div align="center"> 
-
 ### 🌐 | Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/astr0s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astr0sc0mpany) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astroscompany) 
 
-### 💻 | Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+
+  <img src="/profile/socials.png" width="300px" align="right"><br>
   
-  ## 📊 | Estatísticas 
+  <div align="center">
+    <a href="#">
+      <img width="120px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
+    </a><br>
+    <a href="#">
+      <img width="120px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    </a><br>
+    <a href="#">
+      <img width="120px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a><br>
+    <a href="#">
+      <img width="120px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
+    </a><br>
+    <a href="#">
+      <img width="120px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
+  </div><br>
+  
+</div><br>
+
+---
+### 💻 | Tech Stack:
+<img src="/profile/programming2.png" width="400px" align="right"><br>
+
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </a><
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  </a><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  </a>
+  <a href="https://help.figma.com/hc/en-us">
+    <img width="60px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  </a><br>
+      <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  </a>
+  <a href="https://firebase.google.com/docs?gad=1&gclid=Cj0KCQjwmICoBhDxARIsABXkXlJo_zHufz2Dsv8uacTc5FWt6hCUGvFYZN62tffrGs9FLgaXwJWwIgkaAmdEEALw_wcB&gclsrc=aw.ds">
+    <img width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  </a><br>
+
+</div><br>
+
+---
+  
+  ### 📊 | Estatísticas 
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ASTROSCOMPANY&bg_color=000000&color=038478&line=038478&point=000ed1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ASTROSCOMPANY&bg_color=000000&color=038478&line=038478&point=000ed1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<br>
+
 ---
 <div align="center">
   
-## 🏢 | Team
+### 🏢 | Team
 
 </div>
 <table align="center">
