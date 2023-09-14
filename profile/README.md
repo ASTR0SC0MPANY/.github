@@ -134,7 +134,7 @@
           </sub>
         </a>
         <br>
-        <p><br>Designer<br>Marketing</p>
+        <p><br>Full-Stack<br>
       </td>
       <td>
         <a href="https://github.com/YorranaOliveira">
